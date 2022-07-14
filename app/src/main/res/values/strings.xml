@@ -6,7 +6,7 @@
     <string name="username">/@username</string>
     <string name="company_name">Company Name</string>
     <string name="_100">100</string>
-    <string name="repositories">repositories</string>
+    <string name="repositories">Repositories</string>
     <string name="followers">followers</string>
     <string name="following">following</string>
     <string name="location">Location</string>
@@ -15,6 +15,7 @@
     <string name="dicoding">Dicoding</string>
     <string name="github_app">GitHubApp</string>
     <string name="github_logo">GitHub Logo</string>
+    <string name="dot">dot</string>
 
 
     <string-array name="username">
